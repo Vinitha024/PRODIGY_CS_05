@@ -12,21 +12,6 @@ It serves as a beginner-friendly way to understand how data travels across netwo
 
 ---
 
-## ⚠️ Ethical & Legal Notice
-
-This tool is intended **only for learning and ethical use**.  
-Do **not** use it on networks or devices you do not own or have permission to test.
-
-Unauthorized packet sniffing may violate:
-
-- 🔸 Privacy laws  
-- 🔸 Computer misuse regulations  
-- 🔸 Organizational policies  
-
-Use responsibly.
-
----
-
 ## 🛠 Requirements
 
 Install the necessary dependency:
