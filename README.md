@@ -45,7 +45,7 @@ Through this task, I explored:
  - Why safe and ethical usage of sniffing tools is important
 
 ---
-👩‍💻 Author
+# 👩‍💻 Author
 
 Vinitha G
 Cyber Security Student | Prodigy InfoTech Intern
